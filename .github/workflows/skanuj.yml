@@ -2,7 +2,7 @@ name: Skanuj Roblox
 
 on:
   schedule:
-    - cron: "3-58/5 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
